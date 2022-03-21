@@ -1,0 +1,13 @@
+/* Footer */
+
+#footer {
+	text-align: center;
+    background-color: #dce3e2;
+    padding: 3em 0 4em 0;
+    font-size: 0.8em;
+}
+
+#footer .copyright li {
+	display: inline-block;
+	line-height: 1em;
+}
